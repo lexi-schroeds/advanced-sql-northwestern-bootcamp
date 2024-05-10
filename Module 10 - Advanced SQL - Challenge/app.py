@@ -1,3 +1,5 @@
+#Leveraged Xpert Learning Assistant to finish this assignment
+
 # Import the dependencies.
 from flask import Flask, jsonify
 from sqlalchemy import create_engine, func
